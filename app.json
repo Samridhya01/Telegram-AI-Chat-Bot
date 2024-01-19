@@ -10,19 +10,19 @@
     ],
     "env": {
         "TELEGRAM_TOKEN": {
-            "description": "Type the TELEGRAM_TOKEN you got from bot father.",
+            "description": "5970774114:AAEBzedbNOvatq9yM9gqCwe-4P85cJ0jH_0",
             "required": true,
-            "value": ""
+            "value": "5970774114:AAEBzedbNOvatq9yM9gqCwe-4P85cJ0jH_0"
         },
         "OWNER_USER_NAME": {
             "description": "Type if your Telegram User Name \n Example : @MR_NIMA_OFC_YT",
             "required": true,
-            "value": "@MR_NIMA_OFC_YT"
+            "value": "@Samrat_tbot"
         },
         "BOT_NAME": {
             "description": "Type if your Telegram Bot Name.",
             "required": true,
-            "value": "⚕ Nima's Telegram AI Chat Bot ⚕"
+            "value": "⚕ Samrat Telegram AI Chat Bot ⚕"
         }
     },
     "buildpacks": [
